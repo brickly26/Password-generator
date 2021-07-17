@@ -12,4 +12,4 @@ created bit size functions in order to break the problem into more managale prob
 
 https://brickly26.github.io/Password-generator/
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/image/03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/image/03-javascript-homework-demo.png)
