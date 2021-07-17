@@ -9,3 +9,7 @@ created bit size functions in order to break the problem into more managale prob
     verifyBank verifies that at least one charcter type was selected
 
     converted bank from a string to an array then generated a random number to index a random character from the bank of charcters. which I would add to a temporary password variable. I would loop this process until the desired length was reached.
+
+https://brickly26.github.io/Password-generator/
+
+![The Password Generator application displays a red button to "Generate Password".](./Assets/image/03-javascript-homework-demo.png)
